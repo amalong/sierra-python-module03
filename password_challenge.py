@@ -1,6 +1,9 @@
 import random
-import sys
-sys.setExecutionLimit(60000) # 60 seconds
+#import time
+#import sys
+#sys.setExecutionLimit(60000) # 60 seconds
+#Explore the time module - there may be a function that can be used to limit the time the while loop will run.
+
 my_password = "abcd"
 guess_num = 0
 done = False
